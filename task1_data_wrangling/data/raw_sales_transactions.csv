@@ -1,0 +1,155 @@
+transaction_id,order_date,customer_id,customer_name,email,date_of_birth,city,product_category,product_name,quantity,unit_price,discount_pct,payment_method,order_status,sales_channel
+T1001,2025-01-17,C001,Aarav Sharma,aarav.sharma@example.com,1998-04-12,Ahmedabad,HOME,Coffee Mug,4,296.08,0.05,Credit Card,refund,online store
+T1002,2025-01-18,C002,Diya Mehta,diya.mehta@example.com,1995-09-03,Mumbai,Sport,Running Shoes,3,3645.2,0.15,Net Banking,Returned,Online
+T1003,2025-06-01,C003,Kabir Rao,kabir.rao@example.com,2001-01-27,Delhi, stationery ,Notebook Pack,2,243.85,0.0,Net Banking,refund,Website
+T1004,2025-05-29,C004,Meera Iyer,meera.iyer@example.com,1992-11-20,Bengaluru,Electronics,Bluetooth Speaker,3,2389.94,0.05,upi payment,Cancelled,Online
+T1005,2025-06-05,C005,ROHAN DAS,rohan.das@example.com,1989-06-14,Kolkata,HOME,Air Fryer,4,8678.04,0.0,COD,Completed,Online
+T1006,2025-06-25, c006 ,Ananya Nair,ananya.nair@example.com,1999-12-05,Kochi, sports ,Yoga Mat,2,730.13,0.15,credit_card,Completed,Website
+T1007,01/04/2025,C007,Ishaan Patel,ishaan.patel@example.com,1994-07-18,Surat,Office Supplies,Gel Pen Set,1,140.76,0.1,netbanking,cancel,Website
+T1008,2025-06-25,C008,Sara Khan,SARA.KHAN@EXAMPLE.COM,1997-03-30, Hyderabad ,Electronics,Laptop Sleeve,2,880.37,0.05,upi payment,cancel,online store
+T1009,2025-03-25,C009,  Nikhil Verma  ,nikhil.verma@example.com,1990-02-22,Pune,Home & Kitchen,Bedsheet Set,1,1194.34,0.05,Cash,refund,Store
+T1010,2025-03-21,C010,TARA SINGH,tara.singh@example.com,2000-10-09,Chandigarh,Sports,Cricket Bat,1,1959.85,10%,CARD,cancel,Retail
+T1011,2025-03-20,C001,Aarav Sharma,aarav.sharma@example.com,12/04/1998,Ahmedabad,stationary,Desk Organizer,4,588.22,0.15,CARD,refund,Offline
+T1012,2025-01-26, c002 ,Diya Mehta,diya.mehta@example.com,1995-09-03,MUMBAI,HOME,Coffee Mug,4,275.43,0.0,Net Banking,cancel,Offline
+T1013,27 Mar 2025,C003,Kabir Rao,kabir.rao@example.com,2001-01-27,Delhi,sports goods,Running Shoes,3,3656.16,0.1,upi payment,Returned,Online
+T1014,26/01/2025,C004,Meera Iyer,meera.iyer@example.com,1992-11-20,Bengaluru,Office Supplies,Notebook Pack,1,255.71,0.0,upi payment,cancel,Offline
+T1015,2025-01-15,C005,ROHAN DAS,rohan.das@example.com,1989-06-14,Kolkata,electronic,Wireless Mouse,4,816.22,0.1,Credit Card,Returned,Retail
+T1016,2025-02-25,C006,Ananya Nair,ANANYA.NAIR@EXAMPLE.COM,05 Dec 1999, Kochi ,HOME,Air Fryer,3,8412.95,0.0,credit_card,complete,Website
+T1017,2025-06-29,C007,Ishaan Patel,invalid-email,1994-07-18,Surat,Sports,Yoga Mat,4,669.24,0.15,Net Banking,complete,Store
+T1018,2025-02-23, c008 ,  Sara Khan  ,sara.khan@example.com,1997-03-30,Hyderabad,Office Supplies,Gel Pen Set,2,INR 150.36,0.1,Net Banking,Cancelled,Offline
+T1019,31-02-2025,C009,Nikhil Verma,nikhil.verma@example.com,1990-02-22,Pune,Electronics,Bluetooth Speaker,2,2624.56,0.05,UPI,Delivered,Online
+T1020,2025-01-17,C010,TARA SINGH,tara.singh@example.com,2000-10-09,Chandigarh,Kitchen,Bedsheet Set,4,1191.69,10%,credit_card,Cancelled,Offline
+T1021,19/06/2025,C001,Aarav Sharma,aarav.sharma@example.com,1998-04-12,Ahmedabad,sports goods,Cricket Bat,1,1958.65,0.05,credit_card,Completed,online store
+T1022,2025-02-24,C002,Diya Mehta,diya.mehta@example.com,03/09/1995,Mumbai, stationery ,Desk Organizer,3,Rs. 586,0.1,Credit Card,Completed,Online
+T1023,,C003,Kabir Rao,kabir.rao@example.com,2001-01-27,Delhi,electronic,Laptop Sleeve,4,957.77,0.05,upi payment,complete,Retail
+T1024,2025-06-25, c004 ,Meera Iyer,MEERA.IYER@EXAMPLE.COM,1992-11-20,BENGALURU, sports ,Running Shoes,2,3620.42,,upi payment,cancel,online store
+T1025,2025-01-15,C005,ROHAN DAS,rohan.das@example.com,1989-06-14,Kolkata,stationary,Notebook Pack,1,265.04,0.0,COD,complete,Retail
+T1026,25 Feb 2025,C006,Ananya Nair,ananya.nair@example.com,1999-12-05,Kochi, electronics ,Wireless Mouse,4,757.68,0.1,Net Banking,Delivered,Retail
+T1027,2025-03-31,C007,  Ishaan Patel  ,ishaan.patel@example.com,1994-07-18,Surat,Kitchen,Coffee Mug,3,295.75,0.05,credit_card,refund,Online
+T1028,28/04/2025,C008,Sara Khan,sara.khan@example.com,,Hyderabad, sports ,Yoga Mat,3,689.58,0.0,Credit Card,complete,Website
+T1029,2025-02-04,,Nikhil Verma,nikhil.verma@example.com,1990-02-22,Pune,Stationery,Gel Pen Set,2,140.53,0.1,credit_card,refund,Retail
+T1030,2025-01-31, c010 ,TARA SINGH,tara.singh@example.com,2000-10-09,Chandigarh, electronics ,Bluetooth Speaker,2,2531.41,10%,UPI,refund,Offline
+T1031,2025-02-23,C001,,aarav.sharma@example.com,1998-04-12,Ahmedabad,home kitchen,Air Fryer,,9122.57,0.05,upi payment,cancel,Online
+T1032,2025-01-15,C002,Diya Mehta,DIYA.MEHTA@EXAMPLE.COM,03 Sep 1995, Mumbai ,sports goods,Cricket Bat,2,1896.18,0.05,netbanking,complete,Offline
+T1033,2025-04-09,C003,Kabir Rao,kabir.rao@example.com,27/01/2001,Delhi,stationary,Desk Organizer,2,576.67,0.15,upi payment,Returned,Store
+T1034,2025-03-21,C004,Meera Iyer,,1992-11-20,Bengaluru,Electronics,Laptop Sleeve,2,945.93,0.0,netbanking,Returned,Online
+T1035,24/02/2025,C005,ROHAN DAS,rohan.das@example.com,1989-06-14,Kolkata,Kitchen,Bedsheet Set,3,1123.91,0.1,credit_card,complete,online store
+T1036,2025-04-30, c006 ,  Ananya Nair  ,ananya.nair@example.com,1999-12-05,KOCHI,stationary,Notebook Pack,3,INR 259.70,0.1,Credit Card,refund,Store
+T1037,2025-06-26,C007,Ishaan Patel,ishaan.patel@example.com,1994-07-18,Surat,electronic,Wireless Mouse,-2,739.86,0.0,upi payment,Completed,online store
+T1038,31-02-2025,C008,Sara Khan,sara.khan@example.com,1997-03-30,Hyderabad,Home & Kitchen,Coffee Mug,2,290.25,0.15,netbanking,refund,online store
+T1039,23 Apr 2025,C009,Nikhil Verma,nikhil.verma@example.com,1990-02-22,Pune, sports ,Running Shoes,3,3362.38,75%,credit_card,complete,Offline
+T1040,2025-01-09,C010,TARA SINGH,TARA.SINGH@EXAMPLE.COM,2000-10-09, Chandigarh ,Stationery,Gel Pen Set,2,160.74,10%,netbanking,Delivered,Retail
+T1041,2025-06-03,C001,Aarav Sharma,aarav.sharma@example.com,1998-04-12,Ahmedabad,electronic,Bluetooth Speaker,4,free,0.0,upi payment,Completed,Online
+T1042,20/05/2025, c002 ,Diya Mehta,diya.mehta@example.com,1995-09-03,Mumbai,HOME,Air Fryer,2,8327.19,0.1,Credit Card,cancel,Retail
+T1043,2025-03-10,C003,Kabir Rao,kabir.rao@example.com,2001-01-27,Delhi,Sports,Yoga Mat,100,747.85,0.15,Credit Card,Delivered,Online
+T1044,2025-05-31,C004,Meera Iyer,meera.iyer@example.com,20/11/1992,Bengaluru,stationary,Desk Organizer,4,Rs. 568,0.0,Cash,cancel,Store
+T1045,2025-01-09,C005,ROHAN DAS,rohan.das@example.com,1989-06-14,Kolkata,Elec,Laptop Sleeve,1,871.72,0.15,CARD,Cancelled,Website
+T1046,,C006,Ananya Nair,ananya.nair@example.com,1999-12-05,Kochi,Home & Kitchen,Bedsheet Set,2,1105.75,0.0,CARD,complete,Online
+T1047,2025-01-04,C007,Ishaan Patel,ishaan.patel@example.com,1994-07-18,Surat,Sport,Cricket Bat,3,99999,0.05,netbanking,refund,Retail
+T1048,2025-04-16, c008 ,Sara Khan,SARA.KHAN@EXAMPLE.COM,30 Mar 1997,HYDERABAD,Electronics,Wireless Mouse,2,837.88,,COD,Delivered,Retail
+T1049,30/05/2025,C009,Nikhil Verma,nikhil.verma@example.com,1990-02-22,Pune,HOME,Coffee Mug,1,281.0,0.1,Credit Card,Completed,Store
+T1050,2025-02-24,C010,TARA SINGH,tara.singh@example.com,2000-10-09,Chandigarh,sports goods,Running Shoes,1,3590.18,10%,netbanking,Returned,online store
+T1051,2025-06-23,C001,Aarav Sharma,invalid-email,1998-04-12,Ahmedabad,Office Supplies,Notebook Pack,4,230.07,0.1,credit_card,refund,Store
+T1052,20 Jan 2025,C002,Diya Mehta,diya.mehta@example.com,1995-09-03,Mumbai,Electronics,Bluetooth Speaker,3,2466.66,0.0,netbanking,complete,Offline
+T1053,2025-02-02,C003,Kabir Rao,kabir.rao@example.com,2001-01-27,Delhi,home kitchen,Air Fryer,4,8912.88,0.05,Cash,cancel,Store
+T1054,2025-01-04, c004 ,  Meera Iyer  ,meera.iyer@example.com,1992-11-20,Bengaluru,sports goods,Yoga Mat,3,INR 735.84,0.0,Net Banking,Returned,online store
+T1055,2025-03-02,C005,ROHAN DAS,rohan.das@example.com,14/06/1989,Kolkata, stationery ,Gel Pen Set,3,151.53,0.15,COD,refund,online store
+T1056,16/03/2025,C006,Ananya Nair,ANANYA.NAIR@EXAMPLE.COM,, Kochi ,Electronics,Laptop Sleeve,1,888.34,0.05,Cash,Cancelled,Store
+T1057,31-02-2025,C007,Ishaan Patel,ishaan.patel@example.com,1994-07-18,Surat,Home & Kitchen,Bedsheet Set,2,1150.63,0.05,netbanking,cancel,Store
+T1058,2025-05-28,,Sara Khan,sara.khan@example.com,1997-03-30,Hyderabad,sports goods,Cricket Bat,4,1767.3,0.0,Cash,Completed,Online
+T1059,2025-02-04,C009,Nikhil Verma,nikhil.verma@example.com,1990-02-22,Pune,Stationery,Desk Organizer,4,580.82,0.15,netbanking,Cancelled,Offline
+T1060,2025-01-30, c010 ,TARA SINGH,tara.singh@example.com,2000-10-09,CHANDIGARH,home kitchen,Coffee Mug,1,282.43,10%,credit_card,Returned,Online
+T1061,2025-05-09,C001,Aarav Sharma,aarav.sharma@example.com,1998-04-12,Ahmedabad,Sports,Running Shoes,1,3316.85,0.15,UPI,refund,Offline
+T1062,2025-05-04,C002,,diya.mehta@example.com,1995-09-03,Mumbai, stationery ,Notebook Pack,,241.75,0.05,upi payment,cancel,Store
+T1063,24/05/2025,C003,  Kabir Rao  ,kabir.rao@example.com,2001-01-27,Delhi,Electronics,Wireless Mouse,4,740.64,0.05,netbanking,complete,online store
+T1064,2025-02-15,C004,Meera Iyer,MEERA.IYER@EXAMPLE.COM,20 Nov 1992, Bengaluru ,home kitchen,Air Fryer,3,8385.13,0.1,Credit Card,Delivered,Website
+T1065,17 Jun 2025,C005,ROHAN DAS,rohan.das@example.com,1989-06-14,Kolkata, sports ,Yoga Mat,3,654.45,0.0,Credit Card,Delivered,Website
+T1066,2025-06-17, c006 ,Ananya Nair,ananya.nair@example.com,05/12/1999,Kochi, stationery ,Gel Pen Set,3,Rs. 157,0.0,netbanking,complete,Store
+T1067,2025-02-28,C007,Ishaan Patel,ishaan.patel@example.com,1994-07-18,Surat,electronic,Bluetooth Speaker,4,2610.75,0.1,Cash,cancel,Retail
+T1068,2025-01-25,C008,Sara Khan,,1997-03-30,Hyderabad,HOME,Bedsheet Set,4,1201.73,0.1,Net Banking,cancel,Website
+T1069,,C009,Nikhil Verma,nikhil.verma@example.com,1990-02-22,Pune,sports goods,Cricket Bat,2,1941.4,0.0,Credit Card,Delivered,Website
+T1070,28/03/2025,C010,TARA SINGH,tara.singh@example.com,2000-10-09,Chandigarh,stationary,Desk Organizer,1,573.37,10%,UPI,Returned,Website
+T1071,2025-05-14,C001,Aarav Sharma,aarav.sharma@example.com,1998-04-12,Ahmedabad,electronic,Laptop Sleeve,2,881.66,0.0,CARD,Completed,Retail
+T1072,2025-06-21, c002 ,  Diya Mehta  ,DIYA.MEHTA@EXAMPLE.COM,1995-09-03,MUMBAI, sports ,Running Shoes,3,"INR 3,488.31",,CARD,Returned,Offline
+T1073,2025-06-23,C003,Kabir Rao,kabir.rao@example.com,2001-01-27,Delhi, stationery ,Notebook Pack,4,255.08,0.0,upi payment,Returned,Retail
+T1074,2025-04-25,C004,Meera Iyer,meera.iyer@example.com,1992-11-20,Bengaluru,Electronics,Wireless Mouse,-2,829.03,0.05,credit_card,refund,Retail
+T1075,2025-04-02,C005,ROHAN DAS,rohan.das@example.com,1989-06-14,Kolkata,Kitchen,Coffee Mug,4,281.4,0.15,Cash,Delivered,Offline
+T1076,31-02-2025,C006,Ananya Nair,ananya.nair@example.com,1999-12-05,Kochi,Sport,Yoga Mat,3,747.76,0.0,credit_card,Cancelled,Store
+T1077,31/01/2025,C007,Ishaan Patel,ishaan.patel@example.com,18/07/1994,Surat, stationery ,Gel Pen Set,4,151.23,0.05,netbanking,cancel,Store
+T1078,21 Jun 2025, c008 ,Sara Khan,sara.khan@example.com,1997-03-30,Hyderabad,Electronics,Bluetooth Speaker,1,2535.02,75%,Credit Card,Returned,Offline
+T1079,2025-01-31,C009,Nikhil Verma,nikhil.verma@example.com,1990-02-22,Pune,Kitchen,Air Fryer,1,8587.32,0.0,upi payment,Returned,Retail
+T1080,2025-04-05,C010,TARA SINGH,TARA.SINGH@EXAMPLE.COM,09 Oct 2000, Chandigarh ,Sport,Cricket Bat,3,1989.92,10%,upi payment,complete,Offline
+T1081,2025-01-26,C001,  Aarav Sharma  ,aarav.sharma@example.com,1998-04-12,Ahmedabad,Stationery,Desk Organizer,4,562.56,0.15,COD,Delivered,Website
+T1082,2025-04-30,C002,Diya Mehta,diya.mehta@example.com,1995-09-03,Mumbai,Electronics,Laptop Sleeve,3,free,0.05,COD,cancel,Website
+T1083,2025-05-14,C003,Kabir Rao,kabir.rao@example.com,2001-01-27,Delhi,home kitchen,Bedsheet Set,4,1249.36,0.1,Net Banking,Completed,Offline
+T1084,26/02/2025, c004 ,Meera Iyer,meera.iyer@example.com,,BENGALURU,Stationery,Notebook Pack,2,234.97,0.0,netbanking,Returned,Website
+T1085,2025-05-14,C005,ROHAN DAS,invalid-email,1989-06-14,Kolkata,electronic,Wireless Mouse,2,828.36,0.0,netbanking,Cancelled,Website
+T1086,2025-05-22,C006,Ananya Nair,ananya.nair@example.com,1999-12-05,Kochi,Kitchen,Coffee Mug,100,293.09,0.05,netbanking,Delivered,Retail
+T1087,2025-06-03,,Ishaan Patel,ishaan.patel@example.com,1994-07-18,Surat, sports ,Running Shoes,4,3285.41,0.05,Net Banking,refund,Online
+T1088,2025-01-23,C008,Sara Khan,SARA.KHAN@EXAMPLE.COM,30/03/1997, Hyderabad ,Office Supplies,Gel Pen Set,2,Rs. 153,0.1,Credit Card,Delivered,Website
+T1089,2025-05-11,C009,Nikhil Verma,nikhil.verma@example.com,1990-02-22,Pune, electronics ,Bluetooth Speaker,4,2417.18,0.15,CARD,Returned,Online
+T1090,2025-02-24, c010 ,TARA SINGH,tara.singh@example.com,2000-10-09,Chandigarh,Kitchen,Air Fryer,3,"INR 8,881.51",10%,Credit Card,Completed,Store
+T1091,08 Jan 2025,C001,Aarav Sharma,aarav.sharma@example.com,1998-04-12,Ahmedabad, sports ,Yoga Mat,4,674.83,0.15,Credit Card,Delivered,Offline
+T1092,,C002,Diya Mehta,diya.mehta@example.com,1995-09-03,Mumbai,Office Supplies,Desk Organizer,1,613.39,0.1,Credit Card,refund,Store
+T1093,2025-06-06,C003,,kabir.rao@example.com,2001-01-27,Delhi,Electronics,Laptop Sleeve,,861.72,0.05,Net Banking,cancel,Retail
+T1094,2025-02-05,C004,Meera Iyer,meera.iyer@example.com,1992-11-20,Bengaluru,HOME,Bedsheet Set,1,99999,0.15,Credit Card,Delivered,Online
+T1095,31-02-2025,C005,ROHAN DAS,rohan.das@example.com,1989-06-14,Kolkata, sports ,Cricket Bat,1,1931.18,0.15,netbanking,complete,online store
+T1096,2025-06-03, c006 ,Ananya Nair,ANANYA.NAIR@EXAMPLE.COM,05 Dec 1999,KOCHI,Elec,Wireless Mouse,1,837.48,,netbanking,Delivered,Retail
+T1097,2025-06-03,C007,Ishaan Patel,ishaan.patel@example.com,1994-07-18,Surat,Home & Kitchen,Coffee Mug,3,315.17,0.05,upi payment,complete,Online
+T1098,23/01/2025,C008,Sara Khan,sara.khan@example.com,1997-03-30,Hyderabad,Sport,Running Shoes,3,3636.27,0.1,Cash,Delivered,Store
+T1099,2025-03-23,C009,  Nikhil Verma  ,nikhil.verma@example.com,22/02/1990,Pune,Stationery,Notebook Pack,1,258.35,0.0,Credit Card,complete,Online
+T1100,2025-05-09,C010,TARA SINGH,tara.singh@example.com,2000-10-09,Chandigarh,electronic,Bluetooth Speaker,3,2543.6,10%,Credit Card,Delivered,Offline
+T1101,2025-01-01,C001,Aarav Sharma,aarav.sharma@example.com,1998-04-12,Ahmedabad,Kitchen,Air Fryer,1,9021.38,0.05,UPI,complete,Website
+T1102,2025-01-17, c002 ,Diya Mehta,,1995-09-03,Mumbai,Sport,Yoga Mat,4,752.69,0.0,upi payment,Returned,Retail
+T1103,2025-02-16,C003,Kabir Rao,kabir.rao@example.com,2001-01-27,Delhi,Stationery,Gel Pen Set,3,150.73,0.05,CARD,Cancelled,Offline
+T1104,24 Feb 2025,C004,Meera Iyer,MEERA.IYER@EXAMPLE.COM,1992-11-20, Bengaluru , electronics ,Laptop Sleeve,2,927.74,0.1,Cash,Returned,Store
+T1105,29/01/2025,C005,ROHAN DAS,rohan.das@example.com,1989-06-14,Kolkata,home kitchen,Bedsheet Set,1,1200.6,0.1,netbanking,Returned,Online
+T1106,2025-01-22,C006,Ananya Nair,ananya.nair@example.com,1999-12-05,Kochi,Sports,Cricket Bat,4,1831.57,0.0,CARD,refund,Website
+T1107,2025-05-23,C007,Ishaan Patel,ishaan.patel@example.com,1994-07-18,Surat,stationary,Desk Organizer,3,611.9,0.15,credit_card,Completed,Store
+T1108,2025-02-09, c008 ,  Sara Khan  ,sara.khan@example.com,1997-03-30,HYDERABAD,HOME,Coffee Mug,4,INR 290.25,0.1,Credit Card,Completed,Website
+T1109,2025-03-28,C009,Nikhil Verma,nikhil.verma@example.com,1990-02-22,Pune,Sport,Running Shoes,2,3345.38,0.0,UPI,Returned,Offline
+T1110,2025-05-08,C010,TARA SINGH,tara.singh@example.com,09/10/2000,Chandigarh,Office Supplies,Notebook Pack,3,Rs. 255,10%,CARD,complete,Retail
+T1111,2025-03-04,C001,Aarav Sharma,aarav.sharma@example.com,1998-04-12,Ahmedabad,electronic,Wireless Mouse,-2,790.23,0.1,upi payment,Completed,Store
+T1112,03/04/2025,C002,Diya Mehta,DIYA.MEHTA@EXAMPLE.COM,, Mumbai ,Home & Kitchen,Air Fryer,4,9024.45,0.1,netbanking,cancel,Offline
+T1113,2025-05-13,C003,Kabir Rao,kabir.rao@example.com,2001-01-27,Delhi,sports goods,Yoga Mat,3,732.54,0.0,upi payment,cancel,Website
+T1114,31-02-2025, c004 ,Meera Iyer,meera.iyer@example.com,1992-11-20,Bengaluru, stationery ,Gel Pen Set,1,138.8,0.0,Net Banking,cancel,Online
+T1115,,C005,ROHAN DAS,rohan.das@example.com,1989-06-14,Kolkata,Electronics,Bluetooth Speaker,2,2432.68,0.05,COD,Completed,Online
+T1116,2025-05-15,,Ananya Nair,ananya.nair@example.com,1999-12-05,Kochi,Kitchen,Bedsheet Set,4,1261.76,0.0,Net Banking,Completed,Website
+T1117,09 May 2025,C007,  Ishaan Patel  ,ishaan.patel@example.com,1994-07-18,Surat,Sports,Cricket Bat,1,1929.64,75%,upi payment,Completed,Offline
+T1118,2025-06-23,C008,Sara Khan,sara.khan@example.com,1997-03-30,Hyderabad,stationary,Desk Organizer,1,625.08,0.15,CARD,cancel,Retail
+T1119,27/01/2025,C009,Nikhil Verma,invalid-email,1990-02-22,Pune,electronic,Laptop Sleeve,3,882.87,0.15,UPI,Delivered,Retail
+T1120,2025-02-07, c010 ,TARA SINGH,TARA.SINGH@EXAMPLE.COM,2000-10-09,CHANDIGARH,Sport,Running Shoes,4,3310.75,10%,credit_card,Completed,Store
+T1121,2025-06-16,C001,Aarav Sharma,aarav.sharma@example.com,12/04/1998,Ahmedabad, stationery ,Notebook Pack,4,251.23,0.0,Net Banking,Cancelled,Offline
+T1122,2025-01-26,C002,Diya Mehta,diya.mehta@example.com,1995-09-03,Mumbai, electronics ,Wireless Mouse,3,785.27,0.05,Credit Card,cancel,Retail
+T1123,2025-01-08,C003,Kabir Rao,kabir.rao@example.com,2001-01-27,Delhi,Home & Kitchen,Coffee Mug,2,free,0.15,CARD,complete,online store
+T1124,2025-06-14,C004,,meera.iyer@example.com,1992-11-20,Bengaluru,Sports,Yoga Mat,,669.12,0.0,CARD,complete,Website
+T1125,2025-06-30,C005,ROHAN DAS,rohan.das@example.com,1989-06-14,Kolkata,Stationery,Gel Pen Set,3,148.84,0.0,CARD,complete,Store
+T1126,02/06/2025, c006 ,  Ananya Nair  ,ananya.nair@example.com,1999-12-05,Kochi, electronics ,Bluetooth Speaker,4,"INR 2,558.64",0.1,COD,cancel,Retail
+T1127,2025-04-22,C007,Ishaan Patel,ishaan.patel@example.com,1994-07-18,Surat,Kitchen,Air Fryer,1,8317.61,0.1,Net Banking,Completed,Store
+T1128,2025-06-02,C008,Sara Khan,SARA.KHAN@EXAMPLE.COM,30 Mar 1997, Hyderabad ,Sport,Cricket Bat,2,1980.62,0.05,Net Banking,Completed,Offline
+T1129,2025-03-19,C009,Nikhil Verma,nikhil.verma@example.com,1990-02-22,Pune, stationery ,Desk Organizer,100,607.35,0.0,UPI,Completed,Offline
+T1130,01 Apr 2025,C010,TARA SINGH,tara.singh@example.com,2000-10-09,Chandigarh,Electronics,Laptop Sleeve,4,842.18,10%,UPI,Cancelled,Store
+T1131,2025-04-24,C001,Aarav Sharma,aarav.sharma@example.com,1998-04-12,Ahmedabad,home kitchen,Bedsheet Set,3,1137.13,0.0,CARD,complete,online store
+T1132,2025-01-05, c002 ,Diya Mehta,diya.mehta@example.com,03/09/1995,MUMBAI,stationary,Notebook Pack,3,Rs. 247,0.15,CARD,Delivered,Offline
+T1133,31-02-2025,C003,Kabir Rao,kabir.rao@example.com,2001-01-27,Delhi,electronic,Wireless Mouse,1,770.62,0.0,upi payment,refund,Retail
+T1134,2025-06-27,C004,Meera Iyer,meera.iyer@example.com,1992-11-20,Bengaluru,HOME,Coffee Mug,4,297.92,0.1,COD,refund,Store
+T1135,2025-04-04,C005,ROHAN DAS,rohan.das@example.com,1989-06-14,Kolkata, sports ,Running Shoes,3,3758.32,0.1,upi payment,Cancelled,Online
+T1136,2025-01-21,C006,Ananya Nair,,1999-12-05, Kochi ,Office Supplies,Gel Pen Set,3,147.57,0.1,upi payment,Cancelled,Offline
+T1137,2025-03-17,C007,Ishaan Patel,ishaan.patel@example.com,1994-07-18,Surat, electronics ,Bluetooth Speaker,4,2692.75,0.0,Net Banking,cancel,Store
+T1138,, c008 ,Sara Khan,sara.khan@example.com,1997-03-30,Hyderabad,home kitchen,Air Fryer,3,7987.52,0.05,Credit Card,Returned,Retail
+T1139,2025-06-24,C009,Nikhil Verma,nikhil.verma@example.com,1990-02-22,Pune,sports goods,Yoga Mat,2,753.3,0.15,CARD,Cancelled,online store
+T1140,16/03/2025,C010,TARA SINGH,tara.singh@example.com,,Chandigarh,Stationery,Desk Organizer,1,559.21,10%,upi payment,Returned,Retail
+T1141,2025-02-18,C001,Aarav Sharma,aarav.sharma@example.com,1998-04-12,Ahmedabad,Electronics,Laptop Sleeve,4,99999,0.0,Credit Card,Completed,Store
+T1142,2025-01-09,C002,Diya Mehta,diya.mehta@example.com,1995-09-03,Mumbai,HOME,Bedsheet Set,2,1232.63,0.0,COD,refund,Retail
+T1143,02 Jan 2025,C003,Kabir Rao,kabir.rao@example.com,27/01/2001,Delhi, sports ,Cricket Bat,4,1971.75,0.05,UPI,Delivered,Store
+T1144,2025-02-12, c004 ,  Meera Iyer  ,MEERA.IYER@EXAMPLE.COM,20 Nov 1992,BENGALURU, electronics ,Wireless Mouse,1,INR 844.78,,Credit Card,Cancelled,Offline
+T1145,2025-02-17,,ROHAN DAS,rohan.das@example.com,1989-06-14,Kolkata,home kitchen,Coffee Mug,3,276.5,0.15,COD,Cancelled,Offline
+T1146,2025-05-02,C006,Ananya Nair,ananya.nair@example.com,1999-12-05,Kochi,Sport,Running Shoes,2,3696.5,0.0,UPI,cancel,Store
+T1147,13/06/2025,C007,Ishaan Patel,ishaan.patel@example.com,1994-07-18,Surat,stationary,Notebook Pack,2,252.6,0.05,credit_card,complete,Offline
+T1148,2025-06-10,C008,Sara Khan,sara.khan@example.com,1997-03-30,Hyderabad,electronic,Bluetooth Speaker,-2,2332.99,0.0,UPI,Returned,Retail
+T1149,2025-03-18,C009,Nikhil Verma,nikhil.verma@example.com,1990-02-22,Pune,home kitchen,Air Fryer,4,9177.21,0.1,COD,Completed,Offline
+T1150,2025-01-25, c010 ,TARA SINGH,tara.singh@example.com,2000-10-09,Chandigarh, sports ,Yoga Mat,1,754.65,10%,COD,cancel,Offline
+T1009,2025-03-25,C009,  Nikhil Verma  ,nikhil.verma@example.com,1990-02-22,Pune,Home & Kitchen,Bedsheet Set,1,1194.34,0.05,Cash,refund,Store
+T1020,2025-01-17,C010,TARA SINGH,tara.singh@example.com,2000-10-09,Chandigarh,Kitchen,Bedsheet Set,4,1191.69,10%,credit_card,Cancelled,Offline
+T1050,2025-02-24,C010,  tara singh,tara.singh@example.com,2000-10-09,Chandigarh,sports goods,Running Shoes,1,3590.18,5%,netbanking,Returned,website
+,28/03/2025,C010,TARA SINGH,missing.id@example.com,2000-10-09,Chandigarh,stationary,Desk Organizer,1,573.37,10%,UPI,Returned,Website
